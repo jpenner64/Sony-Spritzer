@@ -1,2 +1,2 @@
-# Sony-Spritzer
-Projects on the Arduino based Sony Spritzer
+# Sony-Spresense
+Projects on the Arduino based Sony Spresense
